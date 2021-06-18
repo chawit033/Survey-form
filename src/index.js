@@ -1,2 +1,2 @@
 console.log("Hello");
-import 'src/main.scss'
+import './main.scss'
